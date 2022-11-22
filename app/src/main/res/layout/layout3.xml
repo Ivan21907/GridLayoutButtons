@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:rowCount="3"
     android:columnCount="2"
-    android:layout_margin="10dp"
     android:orientation="horizontal"
     tools:context=".MainActivity">
 
